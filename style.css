@@ -1,6 +1,6 @@
 body {
     text-align: center;   
-    color: lightseagreen;
+    color: #0dba86;
    
 }
 
@@ -25,12 +25,29 @@ table.skills {
 }
 
 hr {
-    height: 3px
+    height:none;
     
 }
+
 .h2 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.profile-picture {
+    background-color: #0dba86;
+    color: white;
+}
 
+.education {
+    background-color:#0dba86;
+    color: white;
+}
+.skills {
+    background-color:#0dba86;
+    color: white;
+}
 
+.hobbies {
+    background-color:#0dba86;
+    color:white;
+}
