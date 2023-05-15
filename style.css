@@ -1,6 +1,11 @@
 body {
+
     text-align: center;   
     color: #0dba86;
+    font-weight: normal;
+    background-color: whitesmoke;
+   
+   
    
 }
 
@@ -36,6 +41,7 @@ hr {
 .profile-picture {
     background-color: #0dba86;
     color: white;
+    
 }
 
 .education {
@@ -51,3 +57,31 @@ hr {
     background-color:#0dba86;
     color:white;
 }
+
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding-inline: 0;
+    justify-content: center;
+}
+nav ul li {
+    
+    margin-inline: 0.25rem;
+    margin-block: 0;
+    line-height: 1.5rem;
+    list-style: none;
+}
+* img {
+    height:200px;
+    width: 200px;
+}
+
+h1, h2 {
+    background-color: antiquewhite ;
+    color: darkseagreen;
+}
+
+
+
+
+
