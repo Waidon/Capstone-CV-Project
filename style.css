@@ -1,13 +1,10 @@
 body {
 
     text-align: center;   
-    color: #0dba86;
+    color: #0dba86; 
     font-weight: normal;
-    background-color: whitesmoke;
-   
-   
-   
-}
+    background-color: #FAF5EF;
+   }
 
 div.container {
     text-align: center;
@@ -76,12 +73,33 @@ nav ul li {
     width: 200px;
 }
 
-h1, h2 {
+h1  {
+    background-color: antiquewhite ;
+    color: slategray;
+    font-size: 30px;
+    font-family: 'Times New Roman, 'Georgia, Times, serif;
+}
+
+h2 {
     background-color: antiquewhite ;
     color: darkseagreen;
+    font-size: 30px;
+}
+
+p  { 
+    font-size: 20px;
+}
+    
+
+ul {
+    font-size: 20px;
 }
 
 
+ol {
+    font-size: 20px;
+}
 
-
-
+table {
+    font-size: 20px;
+}
