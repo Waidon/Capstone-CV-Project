@@ -1,9 +1,11 @@
 body {
 
     text-align: center;   
-    color: #0dba86; 
-    font-weight: normal;
-    background-color: #FAF5EF;
+    color: darkseagreen;
+    font-weight: 100;
+    background-color:#FDF6E4;
+    font-family: 'Nanum Myeongjo', serif;
+   
    }
 
 div.container {
@@ -31,43 +33,28 @@ hr {
     
 }
 
-.h2 {
-    font-family: Arial, Helvetica, sans-serif;
-}
+
 
 .profile-picture {
-    background-color: #0dba86;
-    color: white;
+    background-color: #FDF6E4;
+    color: darkseagreen;
     
 }
 
 .education {
-    background-color:#0dba86;
-    color: white;
+    background-color: #FDF6E4;
+    color: darkseagreen;
 }
 .skills {
-    background-color:#0dba86;
-    color: white;
+    background-color:#FDF6E4;
 }
 
 .hobbies {
-    background-color:#0dba86;
-    color:white;
+    background-color:#FDF6E4;
+    color:darkseagreen;
 }
 
-nav ul {
-    display: flex;
-    flex-wrap: wrap;
-    padding-inline: 0;
-    justify-content: center;
-}
-nav ul li {
-    
-    margin-inline: 0.25rem;
-    margin-block: 0;
-    line-height: 1.5rem;
-    list-style: none;
-}
+
 * img {
     height:200px;
     width: 200px;
@@ -75,9 +62,10 @@ nav ul li {
 
 h1  {
     background-color: antiquewhite ;
-    color: slategray;
-    font-size: 30px;
-    font-family: 'Times New Roman, 'Georgia, Times, serif;
+    color: seagreen;
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 40px;
+    
 }
 
 h2 {
