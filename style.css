@@ -1,7 +1,7 @@
 body {
 
     text-align: center;   
-    color: darkseagreen;
+    color: #108e80;
     font-weight: 100;
     background-color:#FDF6E4;
     font-family: 'Nanum Myeongjo', serif;
@@ -37,13 +37,13 @@ hr {
 
 .profile-picture {
     background-color: #FDF6E4;
-    color: darkseagreen;
+    color: #26bba9;
     
 }
 
 .education {
     background-color: #FDF6E4;
-    color: darkseagreen;
+    color:#108e80;
 }
 .skills {
     background-color:#FDF6E4;
@@ -51,7 +51,7 @@ hr {
 
 .hobbies {
     background-color:#FDF6E4;
-    color:darkseagreen;
+    color:#108e80;
 }
 
 
@@ -62,7 +62,7 @@ hr {
 
 h1  {
     background-color: antiquewhite ;
-    color: seagreen;
+    color: #26bba9;
     font-family: 'Nanum Myeongjo', serif;
     font-size: 40px;
     
@@ -70,7 +70,7 @@ h1  {
 
 h2 {
     background-color: antiquewhite ;
-    color: darkseagreen;
+    color: #26bba9;
     font-size: 30px;
 }
 
