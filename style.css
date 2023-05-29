@@ -58,7 +58,16 @@ hr {
 * img {
     height:200px;
     width: 200px;
+    
 }
+
+.img1, .img2, .img3 {
+    border:5px solid #108e80;
+    margin: 10px;
+}
+
+
+
 
 h1  {
     background-color: antiquewhite ;
